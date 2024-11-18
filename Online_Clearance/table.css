@@ -1,0 +1,27 @@
+<style>
+.table-container {
+    margin: 0 auto;
+    max-width: 100px; /*Adjust the maximum width as needed */
+
+}
+    .user-table {
+        border-collapse: collapse;
+        width: 80%;
+    }
+
+    .user-table th,
+    .user-table td{
+        padding: 20px;
+        text-align: left;
+        border-bottom: 1px solid #062058;
+    }
+
+.center-table {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+    .column-separation{
+        border-right: 2px solid #170993;
+    }
+    </style>
